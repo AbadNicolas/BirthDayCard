@@ -1,0 +1,26 @@
+
+
+
+body {
+  
+   width: 900px;
+   height: 1600px;
+     margin: 20px;
+   }
+   
+   
+   .container {
+      background-image: url('future\ birthday.png');
+      background-size: cover;
+      background-position: center center;
+      height: 100vh; /* Adjust the height as needed */
+      position: relative;
+     
+     height: 800px;
+   }
+   
+   .botton-text{
+      position:absolute;
+      left: 20%;
+      top: 89%
+   }
